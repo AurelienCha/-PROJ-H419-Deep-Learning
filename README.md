@@ -1,4 +1,5 @@
 **Author: Aurélien Chassagne**
+
 **email: aurelien.chassagne@ulb.be**
 
 # [PROJ-H419] Batch size and learning rate in Deep Learning
@@ -9,6 +10,7 @@ to evaluate the influence of batch size and learning rate in a simple box regres
 ## The code
 
 The folder code contains 3 jupyter notebooks used for this project. 
+
 This separation is made in order to make it easy to navigate through the code.
 
 - The first one generates the dataset.
@@ -30,18 +32,18 @@ This repositery contains all the content of the project (report, code, dataset, 
 - **db** - Datasets
   - test
     - *.debug*
-    - *.data.npy* - data
-    - *.target.npy* - labels
+    - *.data.npy*   -  (data)
+    - *.target.npy* - (labels)
     - *[images.jpg]*
   - train
     - *.debug*
-    - *.data.npy* - data
-    - *.target.npy* - labels
+    - *.data.npy*   -  (data)
+    - *.target.npy* - (labels)
     - *[images.jpg]*
   - valid
     - *.debug*
-    - *.data.npy* - data
-    - *.target.npy* - labels
+    - *.data.npy*   -  (data)
+    - *.target.npy* - (labels)
     - *[images.jpg]*
 - **resuls**
   - [Graph: loss curves]
