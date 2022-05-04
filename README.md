@@ -54,3 +54,7 @@ This repositery contains all the content of the project (report, code, dataset, 
   - **[instance of model]**
     - *[checkpoint of epochs.hdf5]*
 - **Pictures** - Additionnal images and graphs produce by or for notebook (not data image)
+
+## Acknowledgment
+
+This work is inspired by the following GitHub : https://github.com/sanjeev309/deep_bbox_regression_keras/#prerequisites
