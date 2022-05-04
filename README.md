@@ -1,1 +1,1 @@
-# -PROJ-H419-Deep-Learning
+# [PROJ-H419] Influence of batch size and learning rate in Deep Learning
