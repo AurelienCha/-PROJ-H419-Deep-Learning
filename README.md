@@ -7,6 +7,12 @@
 A Keras model to infer bounding box coordinates of synthetic black images with white boxes
 to evaluate the influence of batch size and learning rate in a simple box regression problem.
 
+**Report :** In-depth analysis and interpretation of the results (5 pages)
+
+**Youtube video :** Overview of the project and the code with a resume of the results (duration 10 min)
+
+Link video :
+
 ## The code
 
 The folder code contains 3 jupyter notebooks used for this project. 
@@ -22,7 +28,7 @@ This separation is made in order to make it easy to navigate through the code.
 - *Readme*
 - *Presentation Video*
 - *Report* - Scientific paper
-- **Code** - Jupyter Notebooks
+- **code** - Jupyter Notebooks
   - *1. Data generation*
   - *2. Training procedure*
   - *3. Result analysis*
@@ -50,7 +56,7 @@ This separation is made in order to make it easy to navigate through the code.
 - **checkpoint**
   - **[instance of model]**
     - *[checkpoint of epochs.hdf5]*
-- **Pictures** - Additionnal images and graphs produce by or for notebook (not data image)
+- **pictures** - Additionnal images and graphs produce by or for notebook (not data image)
 
 ## Acknowledgment
 
