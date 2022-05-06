@@ -2,16 +2,16 @@
 
 **email: aurelien.chassagne@ulb.be**
 
+**Link of the presentation video** : https://youtu.be/UVuy_1JxlBQ
+
 # [PROJ-H419] Batch size and learning rate in Deep Learning
 
 A Keras model to infer bounding box coordinates of synthetic black images with white boxes
 to evaluate the influence of batch size and learning rate in a simple box regression problem.
 
-**Report :** In-depth analysis and interpretation of the results (5 pages)
+**Report :** In-depth analysis and interpretation of the results (*5 pages*)
 
-**Youtube video :** Overview of the project and the code with a resume of the results (duration 10 min)
-
-Link video :
+**Youtube video :** Overview of the project and the code with a resume of the results (*duration 10 min*)
 
 ## The code
 
